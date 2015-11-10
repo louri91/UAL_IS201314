@@ -1,0 +1,6 @@
+Texas|2|4|Mesa5|false|300|pepelopez
+Pepito|3|8|Mesa10|false|400|maria
+Ola|3|3|Mesa5|false|100|francisco
+Telefono|4|10|Mesa10|false|500|maria, pepelopez
+p|2|2|Mesa5|false|100|maria
+a|3|8|Mesa10|false|400|pepe

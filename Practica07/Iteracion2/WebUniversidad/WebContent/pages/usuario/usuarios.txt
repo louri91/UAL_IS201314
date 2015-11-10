@@ -1,0 +1,4 @@
+Maria|Perez|Martin|Calle Pepe,2|maria@yahoo.es|11222333A|Femenino|100|123456
+Luis|Fernandez|Fernandez|Calle Albondiga|luisfernandez@gmail.com|12345678J|Masculino|0|adjawliej
+Pedro|Martinez|Martinez|Calle Ciruelo,2|pedro@yahoo.com|87777676B|Masculino|0|aldijasd
+
